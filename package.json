@@ -1,0 +1,19 @@
+{
+  "name": "e02-ceciliallee",
+  "version": "1.0.0",
+  "description": "Extra credit",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comp426-2022-spring/e02-ceciliallee.git"
+  },
+  "author": "Cecilia Lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/comp426-2022-spring/e02-ceciliallee/issues"
+  },
+  "homepage": "https://github.com/comp426-2022-spring/e02-ceciliallee#readme"
+}
