@@ -4,7 +4,7 @@
   "description": "Extra credit",
   "main": "index.js",
   "scripts": {
-    "test": "npm start"
+    "test": "npm build"
   },
   "repository": {
     "type": "git",
